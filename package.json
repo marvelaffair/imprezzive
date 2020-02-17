@@ -20,7 +20,7 @@
     "underscore": "~1.6.0",
     "backbone": "~1.1.2",
     "gulp-exec": "~1.0.4",
-    "jquery": "~2.1.0",
+    "jquery": "~3.4.0",
     "brace": "~0.2.1",
     "bluebird": "~1.2.1"
   },
